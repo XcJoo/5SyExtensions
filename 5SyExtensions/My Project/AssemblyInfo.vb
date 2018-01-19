@@ -9,11 +9,11 @@ Imports System.Runtime.InteropServices
 ' Werte der Assemblyattribute überprüfen
 
 <Assembly: AssemblyTitle("5SyExtensions")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
+<Assembly: AssemblyDescription("I collected many of my extensions into this repository to share it with the world.")>
+<Assembly: AssemblyCompany("XcJoo")>
 <Assembly: AssemblyProduct("5SyExtensions")>
 <Assembly: AssemblyCopyright("Copyright ©  2018")>
-<Assembly: AssemblyTrademark("")>
+<Assembly: AssemblyTrademark("XcJoo")>
 
 <Assembly: ComVisible(False)>
 
