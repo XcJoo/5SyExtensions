@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{58411234-F707-4AC4-930C-3BDE7BE8BF54}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>FiveSyExtensions</RootNamespace>
+    <RootNamespace>FiveSy.Extensions</RootNamespace>
     <AssemblyName>5SyExtensions</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>Windows</MyType>

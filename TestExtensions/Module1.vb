@@ -1,4 +1,4 @@
-﻿Imports FiveSyExtensions
+﻿Imports FiveSy.Extensions
 
 Module Module1
 

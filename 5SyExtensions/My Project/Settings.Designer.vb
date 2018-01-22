@@ -64,9 +64,9 @@ Namespace My
     Friend Module MySettingsProperty
         
         <Global.System.ComponentModel.Design.HelpKeywordAttribute("My.Settings")>  _
-        Friend ReadOnly Property Settings() As Global.FiveSyExtensions.My.MySettings
+        Friend ReadOnly Property Settings() As Global.FiveSy.Extensions.My.MySettings
             Get
-                Return Global.FiveSyExtensions.My.MySettings.Default
+                Return Global.FiveSy.Extensions.My.MySettings.Default
             End Get
         End Property
     End Module
